@@ -1,9 +1,5 @@
 # 米沙 / Misha
 
-白天学俄语，晚上写代码 —— 业余独立开发者。
-
-*Part-time indie dev. Russian by day, code by night.*
-
 ## 在做的事
 
 **Lexirus** —— 离线俄汉词典 App。纯本地、无账号、无广告：19,000+ 词条，30,000+ 例句，530,000+ 词形，Swift + SwiftUI + SQLite 构建，即将上架 App Store。
