@@ -1,7 +1,3 @@
-# 米沙 / Misha
-
-## 在做的事
-
 **Lexirus** —— 离线俄汉词典 App。纯本地、无账号、无广告：19,000+ 词条，30,000+ 例句，530,000+ 词形，Swift + SwiftUI + SQLite 构建，即将上架 App Store。
 
 *An offline Russian–Chinese dictionary: 19k entries, 30k examples, 530k word forms. On-device only, no account, no ads. Built with Swift + SwiftUI + SQLite. Coming soon to the App Store.*
